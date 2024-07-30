@@ -1,0 +1,32 @@
+#para{
+    text-transform: capitalize;
+    text-align: center;
+    font-size: 2em;
+}
+
+#np{
+    height: 10em;
+}
+
+#send{
+    text-align: center; text-transform: uppercase; background: darkcyan; color: brown;
+    font-size: 3em;
+}
+
+
+video{
+     margin-bottom: 120px;  
+}
+
+
+audio{
+    margin-bottom: 70px; 
+}
+
+
+
+
+
+
+
+
